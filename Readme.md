@@ -57,6 +57,20 @@ These match the environment used to create the screenshots and help the dashboar
 
 ---
 
+## Screenshots
+
+![Add Movie Form – Part 1](screenshots/Movie%20Form%201.png)
+![Add Movie Form – Part 2](screenshots/Movie%20Form%202.png)
+![Add Movie Form – Part 3](screenshots/Movie%20Form%203.png)
+
+![Dashboard – Features Part 1](screenshots/Movie%20Dashboard%201.png)
+![Dashboard – Features Part 2](screenshots/Movie%20Dashboard%202.png)
+
+![Movie Page – Details Part 1](screenshots/Movie%20Page%201.png)
+![Movie Page – Details Part 2](screenshots/Movie%20Page%202.png)
+
+---
+
 ## 🚀 Installation (2 minutes)
 
 Follow these steps:
